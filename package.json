@@ -1,0 +1,9 @@
+{
+  "name": "dispatch-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Веб-дашборд мониторинга показателей инженерной инфраструктуры",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}

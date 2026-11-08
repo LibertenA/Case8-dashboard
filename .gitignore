@@ -1,0 +1,22 @@
+# Зависимости (самое главное)
+node_modules/
+/dist
+/dist-ssr
+*.local
+
+# Логи и кэш
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# Конфигурация вашей IDE / Редакторов
+.vscode/
+.idea/
+
+# Секретные ключи и переменные окружения
+.env
+.env.production
+.env.development
+.env.local
+.env.*.local
